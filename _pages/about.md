@@ -16,8 +16,11 @@ Get in touch!
 
 Mail: alberto.bonicelli01@universitadipavia.it
 
-University of Pavia, 
-Via Agostino Bassi, 6, 27100 Pavia (PV), Italy
+
+<address>
+  1 Infinite Loop<br /> University of Pavia, Via Agostino Bassi, 6 <br /> 27100 Pavia (PV), Italy
+</address>
+
 
 **Markdown generator**
 
