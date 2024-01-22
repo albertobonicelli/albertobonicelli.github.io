@@ -17,8 +17,11 @@ I completed my undergraduate studies at the University of Pavia, obtaining a BSc
 Mail: alberto.bonicelli01@universitadipavia.it
 
 <address>
-  University of Pavia<br /> Via Agostino Bassi, 6 <br />
+  Department of Physics<br /> 
+  University of Pavia<br />
+  Via Agostino Bassi, 6 <br />
   27100 Pavia (PV), Italy
+  
 </address>
 
 
