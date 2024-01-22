@@ -14,7 +14,9 @@ I completed my undergraduate studies at the University of Pavia, obtaining a BSc
 
 **Markdown generator**
 
-Mail: alberto.bonicelli01@universitadipavia.it
+**Mail**: alberto.bonicelli01@universitadipavia.it.
+{: .notice}
+
 
 <address>
   Department of Physics<br /> 
