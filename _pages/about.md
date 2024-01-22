@@ -12,14 +12,12 @@ I am a PhD student in mathematical physics at the physics department of the Univ
 
 I completed my undergraduate studies at the University of Pavia, obtaining a BSc and an MSc in Physics summa cum laude.
 
-Get in touch!
-======
+#Get in touch!
 
 Mail: alberto.bonicelli01@universitadipavia.it
 
-
 <address>
-  1 Infinite Loop<br /> University of Pavia, Via Agostino Bassi, 6 <br />
+  University of Pavia<br /> Via Agostino Bassi, 6 <br />
   27100 Pavia (PV), Italy
 </address>
 
