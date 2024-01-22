@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV (PDF) - Last update: 
+**CV** (PDF) - Last update: 
 
 Education
 ======
