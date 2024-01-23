@@ -12,6 +12,18 @@ My area of research encompasses mathematical quantum field theory, microlocal an
   A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
    	[arXiv:2311.01558 [math-ph]](https://arxiv.org/pdf/2311.01558.pdf)
   
+* **A microlocal investigation of stochastic partial differential equations for spinors with an application to the Thirring model** <br>
+  A.B., Beatrice Costeri, Claudio Dappiaggi, Paolo Rinaldi  <br>
+   	[arXiv:2309.16376 [math-ph]](https://arxiv.org/pdf/2309.16376.pdf)
+
+* **An algebraic correspondence between stochastic differential equations and the Martin-Siggia-Rose formalism** <br>
+  A.B., Claudio Dappiaggi, Nicolò Drago  <br>
+   	[arXiv:2302.10579 [math-ph]](https://arxiv.org/pdf/2302.10579.pdf)
+
+* **An Algebraic and Microlocal Approach to the Stochastic Nonlinear Schrödinger Equation** <br>
+  A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
+  Annales Henri Poincaré 	[DOI]([https://arxiv.org/pdf/2311.01558.pdf](https://doi.org/10.1007/s00023-023-01291-4))
+  
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
