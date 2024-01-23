@@ -13,23 +13,17 @@ redirect_from:
 
 Education
 ======
-* From October 2023: Visiting PhD student, LPSM Sorbonne, Supervisor: Prof. Lorenzo Zambotti.
-* From October 2021: PhD student in mathematical physics, University of Pavia, Department of Physics, Supervisor: Prof. Claudio Dappiaggi, Co-supervisor: Prof. Nicolò Drago.
-* 2029-2021: Masters’s Degree in Theoretical Physics, University of Pavia, Summa cum Laude, Supervisors: Prof. Claudio Dappiaggi, Dr. Paolo Rinaldi. Thesis: A microlocal approach to the stochastic nonlinear Schrödinger equation.
-* 2016-2019: Bachelor’s Degree in Physics, University of Pavia, Summa cum Laude, Supervisor: Prof. Claudio Dappiaggi, Dr. Paolo Rinaldi. Thesis: Geodesic Motion on Riemannian Manifolds from Heat Kernel Techniques
+* From October 2023: **Visiting PhD student**, LPSM Sorbonne, Supervisor: Prof. Lorenzo Zambotti.
+* From October 2021: **PhD student in mathematical physics**, University of Pavia, Department of Physics, Supervisor: Prof. Claudio Dappiaggi, Co-supervisor: Prof. Nicolò Drago.
+* 2029-2021: **Masters’s Degree in Theoretical Physics**, University of Pavia, Summa cum Laude, Supervisors: Prof. Claudio Dappiaggi, Dr. Paolo Rinaldi. Thesis: A microlocal approach to the stochastic nonlinear Schrödinger equation.
+* 2016-2019: **Bachelor’s Degree in Physics**, University of Pavia, Summa cum Laude, Supervisor: Prof. Claudio Dappiaggi, Dr. Paolo Rinaldi. Thesis: Geodesic Motion on Riemannian Manifolds from Heat Kernel Techniques
 
 
-Work experience
+Fellowships and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023: **Bando Cassini**, founded by Institut Francais Italia and Laboratory Ypatia of Mathematical Sciences.
+* 2023: **Progetto giovani GNFM**, Feynman propagator for Dirac fields: a microlocal analytic approach, founded by Gruppo Nazionale di Fisica Matematica.
+* 2022: **Premio Grazioli**, Istituto Lombardo Accademia di Scienze e Lettere.
   
 Skills
 ======
