@@ -13,9 +13,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* From October 2023: Visiting PhD student, LPSM Sorbonne, Supervisor: Prof. Lorenzo Zambotti.
+* From October 2021: PhD student in mathematical physics, University of Pavia, Department of Physics, Supervisor: Prof. Claudio Dappiaggi, Co-supervisor: Prof. Nicolò Drago.
+* 2029-2021: Masters’s Degree in Theoretical Physics, University of Pavia, Summa cum Laude, Supervisors: Prof. Claudio Dappiaggi, Dr. Paolo Rinaldi. Thesis: A microlocal approach to the stochastic nonlinear Schrödinger equation.
+* 2016-2019: Bachelor’s Degree in Physics, University of Pavia, Summa cum Laude, Supervisor: Prof. Claudio Dappiaggi, Dr. Paolo Rinaldi. Thesis: Geodesic Motion on Riemannian Manifolds from Heat Kernel Techniques
+
 
 Work experience
 ======
