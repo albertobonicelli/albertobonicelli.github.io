@@ -22,7 +22,7 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 
 * **An Algebraic and Microlocal Approach to the Stochastic Nonlinear Schrödinger Equation** <br>
   A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
-  Annales Henri Poincaré 	[DOI]([https://arxiv.org/pdf/2311.01558.pdf](https://doi.org/10.1007/s00023-023-01291-4))
+  Annales Henri Poincaré 	24, 2443–2482 (2023) [DOI]([https://arxiv.org/pdf/2311.01558.pdf](https://doi.org/10.1007/s00023-023-01291-4))
   
 
 {% if author.googlescholar %}
