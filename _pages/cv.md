@@ -25,33 +25,19 @@ Fellowships and Awards
 * 2023: **Progetto giovani GNFM**, Feynman propagator for Dirac fields: a microlocal analytic approach, founded by Gruppo Nazionale di Fisica Matematica.
 * 2022: **Premio Grazioli**, Istituto Lombardo Accademia di Scienze e Lettere.
   
-Skills
+Short visits
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* June 2023: Research visit, Invited by Prof. Matteo Capoferri, Department of mathematics, Heriot-Watt University, Edinburgh
+* 2022-2023: Research activity with Prof. Simone Murro, Department of mathematics, University of Genova.
+* 2021-2023: Research activity with Prof. Nicolò Drago, Department of mathematics, University of Trento.
 
-Publications
+
+Organization of conferences
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 11-12 January 2024, [Common trends and challenges in QFT and stochastic PDEs](https://sites.google.com/view/spdesqft/home), Pavia. Principal investigator. 
+
   
-Talks
+Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* **Referee** for Probability Theory and Related Fields
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
