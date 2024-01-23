@@ -7,13 +7,16 @@ author_profile: true
 
 ### Invited talks
 
+| When | Where | Title |  
+|:--------:|:-------|:--------|
 |-----------------------------|
 | December 2022  | University of Genova  | Stochastic nonlinear Schrödinger equation from an algebraic and microlocal viewpoint   |
 | December 2022    | University of Trento   | Stochastic nonlinear Schrödinger equation, an algebraic point of view   |
 | October 2022   | University of Trento   | Algebraic formulation of the SDE-Path integral correspondence   |
 
 ### Contributed talks
-
+| When | Where |  Conference | Title |  
+|:--------:|:-------| :-------|--------|
 |-----------------------------|
 |December 2023  |  Mathematisches Forschungsinstitut Oberwolfach   | Arbeitsgemeinschaft: QFT and Stochastic PDE | H¨older-Besov spaces and space-time white noise  |
 |September 2023  | University of Pavia  | End-of-year seminars | What if Quantum Field Theory meets complex systems?  |
