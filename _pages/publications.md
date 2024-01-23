@@ -11,7 +11,8 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 * Singular stochastic PDEs
 * Algebraic quantum field theory
 * Algebraic and analytic aspects of renormalization
-* Microlocal analysis 
+* Microlocal analysis
+* path integral formulation of SDEs
 
 ## Papers
 * **On the stochastic Sine-Gordon model: an interacting field theory approach** <br>
