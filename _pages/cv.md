@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**CV** (PDF) - Last update: 
+[**CV**](http://academicpages.github.io/files/Curriculum_Vitae_updated.pdf) (PDF) - Last update: 
 
 Education
 ======
