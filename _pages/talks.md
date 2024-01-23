@@ -15,8 +15,9 @@ author_profile: true
 | October 2022   | University of Trento   | Algebraic formulation of the SDE-Path integral correspondence   |
 
 ### Contributed talks
+
 | When | Where |  Conference | Title |  
-|:--------:|:-------| :-------|--------|
+|:--------:|:-------| :-------|:--------|
 |-----------------------------|
 |December 2023  |  Mathematisches Forschungsinstitut Oberwolfach   | Arbeitsgemeinschaft: QFT and Stochastic PDE | H¨older-Besov spaces and space-time white noise  |
 |September 2023  | University of Pavia  | End-of-year seminars | What if Quantum Field Theory meets complex systems?  |
