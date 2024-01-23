@@ -10,7 +10,7 @@ author_profile: true
 |-----------------------------|
 | December 2022  | University of Genova  | Stochastic nonlinear Schrödinger equation from an algebraic and microlocal viewpoint   |
 | December 2022    | University of Trento   | Stochastic nonlinear Schrödinger equation, an algebraic point of view   |
-| October 2022   | University of trento   | Algebraic formulation of the SDE-Path integral correspondence   |
+| October 2022   | University of Trento   | Algebraic formulation of the SDE-Path integral correspondence   |
 
 ### Contributed talks
 
