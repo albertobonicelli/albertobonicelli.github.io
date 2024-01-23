@@ -8,8 +8,8 @@ author_profile: true
 My area of research encompasses mathematical quantum field theory, microlocal analysis and stochastic partial differential equations. I study how these topics talk to each other at the interface of analysis, probability and algebra.
 
 # Papers
-* **On the stochastic Sine-Gordon model: an interacting field theory approach**\\
-  A.B., Claudio Dappiaggi, Paolo Rinaldi\\
+* **On the stochastic Sine-Gordon model: an interacting field theory approach** <br>
+  A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
    	[arXiv:2311.01558 [math-ph]](https://arxiv.org/pdf/2311.01558.pdf)
   
 
