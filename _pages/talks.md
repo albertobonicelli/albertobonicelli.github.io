@@ -9,11 +9,15 @@ author_profile: true
 
 |-----------------------------|
 | December 2022  | University of Genova  | Stochastic nonlinear Schrödinger equation from an algebraic and microlocal viewpoint   |
-| cell4    | cell5   | cell6   |
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| December 2022    | University of Trento   | Stochastic nonlinear Schrödinger equation, an algebraic point of view   |
+| October 2022   | University of trento   | Algebraic formulation of the SDE-Path integral correspondence   |
+
+### Contributed talks
+
+|-----------------------------|
+|September 2023  | University of Pavia  | End-of-year seminars | What if Quantum Field Theory meets complex systems?  |
+| September 2022    | University of Pavia | End-of-year seminars | A complex world   |
+| September 2022   | Ravello  | XLVII Summer school on mathematical physics - GNFM | A microlocal and algebraic approach to SPDEs   |
 
 
 
