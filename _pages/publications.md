@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My area of research encompasses mathematical quantum field theory, microlocal analysis and stochastic partial differential equations. I study how these topics speak to each other, at the interface of analysis, probability and algebra.
+My area of research encompasses mathematical quantum field theory, microlocal analysis and stochastic partial differential equations. I study how these topics talk to each other at the interface of analysis, probability and algebra.
 
 
 {% if author.googlescholar %}
