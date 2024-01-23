@@ -7,10 +7,9 @@ author_profile: true
 
 ### Invited talks
 
-|:--------:|:-------|:--------|
+|-----------------------------|
 | December 2022  | University of Genova  | Stochastic nonlinear Schrödinger equation from an algebraic and microlocal viewpoint   |
 | cell4    | cell5   | cell6   |
-|-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |=============================|
