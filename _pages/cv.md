@@ -36,6 +36,10 @@ Organization of conferences
 ======
 * 11-12 January 2024, [Common trends and challenges in QFT and stochastic PDEs](https://sites.google.com/view/spdesqft/home), Pavia. Principal investigator. 
 
+Thesis supervision
+======
+2023 - **Beatrice Costeri**, A microlocal approach to the nonlinear stochastic Dirac equation, Master's thesis . Co-supervision with Claudio Dappiaggi
+2023 - **Raman Deep Sing**, Local Fundamental Solutions of the Wave Operator on Lorentzian Manifolds, Bachelor thesis . Co-supervision with Claudio Dappiaggi
   
 Service
 ======
