@@ -21,6 +21,8 @@ Education
 
 Fellowships and Awards
 ======
+* 2023: **FSMP PostDoc fellowship**, 2-year fellowship founded by the Fondation Sciences Mathématiques de Paris.
+* 2023: **MathInGreaterParis fellowship**, Postdoctoral fellowship cofunded by Marie Sklodowska-Curie Actions H2020-MSCA-COFUND-202 (declined).
 * 2023: **Bando Cassini**, founded by Institut Francais Italia and Laboratory Ypatia of Mathematical Sciences.
 * 2023: **Progetto giovani GNFM**, Feynman propagator for Dirac fields: a microlocal analytic approach, founded by Gruppo Nazionale di Fisica Matematica.
 * 2022: **Premio Grazioli**, Istituto Lombardo Accademia di Scienze e Lettere.
