@@ -32,10 +32,10 @@ My area of research encompasses mathematical quantum field theory, microlocal an
   Annales Henri Poincaré 	24, 2443–2482 (2023) [DOI]([https://arxiv.org/pdf/2311.01558.pdf](https://doi.org/10.1007/s00023-023-01291-4))
 
 ## Collaborators
-* **[Claudio Dappiaggi](https://claudiodappiaggi.com/)** <br>
-* **[Nicolò Drago](https://nicolodrago.wixsite.com/mysite)** <br>
-* **[Paolo Rinaldi](https://www.paolorinaldi.net/)** <br>
-* **[Lorenzo Zambotti](https://www.lpsm.paris/users/zambotti/index)** <br>
+* **[Claudio Dappiaggi](https://claudiodappiaggi.com/)**, University of Pavia <br>
+* **[Nicolò Drago](https://nicolodrago.wixsite.com/mysite)**, University of Trento <br>
+* **[Paolo Rinaldi](https://www.paolorinaldi.net/)**, University of Bonn <br>
+* **[Lorenzo Zambotti](https://www.lpsm.paris/users/zambotti/index)**, Sorbonne Université, LPSM <br>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
