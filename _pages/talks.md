@@ -10,7 +10,6 @@ author_profile: true
 | When | Where | Conference | Title |  
 |:--------:|:-------|:-------|:--------|
 |-----------------------------|
-
 | May 2024  | Université De Lorraine |  ecorated Tree-like structures for singular
 dynamics | An interactive field approach to the stochastic sine-Gordon model}{Department of mathematics   |
 | May 2024  | Université De bretagne Occidentale |  Rencontre ANR 2024 | An interactive field approach to the stochastic sine-Gordon model}{Department of mathematics   |
