@@ -7,7 +7,7 @@ author_profile: true
 
 ### Invited talks
 
-| When | Where | Title |  
+| When | Where | Conference | Title |  
 |:--------:|:-------|:-------|:--------|
 |-----------------------------|
 
