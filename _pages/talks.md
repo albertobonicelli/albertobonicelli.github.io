@@ -22,6 +22,7 @@ author_profile: true
 | When | Where |  Conference | Title |  
 |:--------:|:-------| :-------|:--------|
 |-----------------------------|
+|July 2024  |  Saint-Flour, France   | 52th Probability Summer School  | A quantum field theory perspective on singular stochastic PDEs |
 |December 2023  |  Mathematisches Forschungsinstitut Oberwolfach   | Arbeitsgemeinschaft: QFT and Stochastic PDE | H¨older-Besov spaces and space-time white noise  |
 |September 2023  | University of Pavia  | End-of-year seminars | What if Quantum Field Theory meets complex systems?  |
 | September 2022    | University of Pavia | End-of-year seminars | A complex world   |
