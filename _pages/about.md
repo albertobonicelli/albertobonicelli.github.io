@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Welcome to my personal webpage
 
-I am a PhD student in mathematical physics at the physics department of the University of Pavia, under the co-supervision of [Prof. Claudio Dappiaggi](https://claudiodappiaggi.com/) and [Prof. Nicolò Drago](https://nicolodrago.wixsite.com/mysite). I am currently a visiting student at the Laboratoire de probabilités, statistique et modélisation, Sorbonne University, under the supervision of [Prof. Lorenzo Zambotti](https://www.lpsm.paris/users/zambotti/index). 
+I am a PhD student in mathematical physics at the physics department of the University of Pavia, under the co-supervision of [Prof. Claudio Dappiaggi](https://claudiodappiaggi.com/) and [Prof. Nicolò Drago](https://nicolodrago.wixsite.com/mysite). While waiting fot the PhD defence, I am currently an ingénieur d'etudes in the group of stochastic analysis of the the Laboratoire de probabilités, statistique et modélisation, Sorbonne University, led by [Prof. Lorenzo Zambotti](https://www.lpsm.paris/users/zambotti/index). 
 
 I completed my undergraduate studies at the University of Pavia, obtaining a BSc and an MSc in Physics summa cum laude.
 
@@ -20,10 +20,10 @@ I completed my undergraduate studies at the University of Pavia, obtaining a BSc
 
 
 <address>
-  Department of Physics<br /> 
-  University of Pavia<br />
-  Via Agostino Bassi, 6 <br />
-  27100 Pavia (PV), Italy
+  Laboratoire de probabilités, statistique et modélisation<br /> 
+  Sorbonne Université<br />
+  4, place Jussieu<br />
+  75005 Paris, France
 </address>
 
 
