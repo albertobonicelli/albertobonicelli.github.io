@@ -17,7 +17,7 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 ## Papers
 * **On the stochastic Sine-Gordon model: an interacting field theory approach** <br>
   A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
-   	[arXiv:2311.01558 [math-ph]](https://arxiv.org/pdf/2311.01558.pdf)
+   	Communications in Mathematical Physics  405, 288 (2024) [DOI](https://doi.org/10.1007/s00220-024-05165-6)
   
 * **A microlocal investigation of stochastic partial differential equations for spinors with an application to the Thirring model** <br>
   A.B., Beatrice Costeri, Claudio Dappiaggi, Paolo Rinaldi  <br>
@@ -29,7 +29,7 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 
 * **An Algebraic and Microlocal Approach to the Stochastic Nonlinear Schrödinger Equation** <br>
   A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
-  Annales Henri Poincaré 	24, 2443–2482 (2023) [DOI]([https://arxiv.org/pdf/2311.01558.pdf](https://doi.org/10.1007/s00023-023-01291-4))
+  Annales Henri Poincaré 	24, 2443–2482 (2023) [DOI](https://doi.org/10.1007/s00023-023-01291-4)
 
 ## Collaborators
 * **[Claudio Dappiaggi](https://claudiodappiaggi.com/)**, University of Pavia <br>
