@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**CV**](http://albertobonicelli.github.io/files/Curriculum_Vitae_updated-3.pdf) (PDF) - Last update: 13 Feb 2024
+[**CV**](http://albertobonicelli.github.io/files/Curriculum_Vitae_updated-4.pdf) (PDF) - Last update: 13 Feb 2024
 
 Education
 ======
