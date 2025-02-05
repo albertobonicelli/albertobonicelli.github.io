@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[**CV**](http://albertobonicelli.github.io/files/Curriculum_Vitae_updated-4.pdf) (PDF) - Last update: 13 Feb 2024
+[**CV**](http://albertobonicelli.github.io/files/Curriculum_Vitae_updated-4.pdf) (PDF) - Last update: 05 Feb 2025
 
 Education
 ======
-* From October 2023: **Visiting PhD student**, LPSM Sorbonne, Supervisor: Prof. Lorenzo Zambotti.
-* From October 2021: **PhD student in mathematical physics**, University of Pavia, Department of Physics, Supervisor: Prof. Claudio Dappiaggi, Co-supervisor: Prof. Nicolò Drago.
+* From February 2025 : Postdoc at LPSM, Sorbonne within the group of stochastic analysis of Prof. Lorenzo Zambotti. 
+* October 2023 - July 2024: **Visiting PhD student**, LPSM Sorbonne, Supervisor: Prof. Lorenzo Zambotti.
+* October 2021 - January 2025 : **PhD student in mathematical physics**, University of Pavia, Department of Physics, Supervisor: Prof. Claudio Dappiaggi, Co-supervisor: Prof. Nicolò Drago.
 * 2029-2021: **Masters’s Degree in Theoretical Physics**, University of Pavia, Summa cum Laude, Supervisors: Prof. Claudio Dappiaggi, Dr. Paolo Rinaldi. Thesis: A microlocal approach to the stochastic nonlinear Schrödinger equation.
 * 2016-2019: **Bachelor’s Degree in Physics**, University of Pavia, Summa cum Laude, Supervisor: Prof. Claudio Dappiaggi, Dr. Paolo Rinaldi. Thesis: Geodesic Motion on Riemannian Manifolds from Heat Kernel Techniques
 
