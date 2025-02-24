@@ -10,8 +10,9 @@ author_profile: true
 | When | Where | Conference | Title |  
 |:--------:|:-------|:-------|:--------|
 |-----------------------------|
-| May 2024  | Université De Lorraine |  ecorated Tree-like structures for singular dynamics | An interactive field approach to the stochastic sine-Gordon model}{Department of mathematics   |
-| May 2024  | Université De bretagne Occidentale |  Rencontre ANR 2024 | An interactive field approach to the stochastic sine-Gordon model}{Department of mathematics   |
+| December 2024  | University of Potsdam | Analytical methods in interplay with physics, a workshop to explore Asymptotics, Randomness and Noncommutativity | Renormalization, an extension problem |
+| May 2024  | Université De Lorraine |  Decorated Tree-like structures for singular dynamics | An interactive field approach to the stochastic sine-Gordon model  |
+| May 2024  | Université De bretagne Occidentale |  Rencontre ANR 2024 | An interactive field approach to the stochastic sine-Gordon model   |
 | April 2024  | University of Potsdam  | | Convergence results in the stochastic sine-Gordon model: An algebraic viewpoint   |
 | December 2022  | University of Genova | | Stochastic nonlinear Schrödinger equation from an algebraic and microlocal viewpoint   |
 | December 2022    | University of Trento |  | Stochastic nonlinear Schrödinger equation, an algebraic point of view   |
