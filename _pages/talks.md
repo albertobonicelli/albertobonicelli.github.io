@@ -10,7 +10,6 @@ author_profile: true
 | When | Where | Conference | Title |  
 |:--------:|:-------|:-------|:--------|
 |-----------------------------|
-| December 2024  | University of Potsdam | Analytical methods in interplay with physics, a workshop to explore Asymptotics, Randomness and Noncommutativity | Renormalization, an extension problem |
 | May 2024  | Université De Lorraine |  Decorated Tree-like structures for singular dynamics | An interactive field approach to the stochastic sine-Gordon model  |
 | May 2024  | Université De bretagne Occidentale |  Rencontre ANR 2024 | An interactive field approach to the stochastic sine-Gordon model   |
 | April 2024  | University of Potsdam  | | Convergence results in the stochastic sine-Gordon model: An algebraic viewpoint   |
@@ -23,6 +22,7 @@ author_profile: true
 | When | Where |  Conference | Title |  
 |:--------:|:-------| :-------|:--------|
 |-----------------------------|
+| December 2024  | University of Potsdam | Analytical methods in interplay with physics, a workshop to explore Asymptotics, Randomness and Noncommutativity | Renormalization, an extension problem |
 |July 2024  |  Saint-Flour, France   | 52th Probability Summer School  | A quantum field theory perspective on singular stochastic PDEs |
 |December 2023  |  Mathematisches Forschungsinstitut Oberwolfach   | Arbeitsgemeinschaft: QFT and Stochastic PDE | H¨older-Besov spaces and space-time white noise  |
 |September 2023  | University of Pavia  | End-of-year seminars | What if Quantum Field Theory meets complex systems?  |
