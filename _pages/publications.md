@@ -40,8 +40,8 @@ PhD Thesis [DOI](https://iris.unipv.it/bitstream/11571/1515063/2/thesis.pdf)
 
 ## Collaborators
 * **[Claudio Dappiaggi](https://claudiodappiaggi.com/)**, University of Pavia <br>
-* **[Nicolò Drago](https://nicolodrago.wixsite.com/mysite)**, University of Trento <br>
-* **[Paolo Rinaldi](https://www.paolorinaldi.net/)**, University of Bonn <br>
+* **[Nicolò Drago](https://nicolodrago.wixsite.com/mysite)**, University of Genova <br>
+* **[Paolo Rinaldi](https://www.paolorinaldi.net/)**, University of Pavia <br>
 * **[Lorenzo Zambotti](https://www.lpsm.paris/users/zambotti/index)**, Sorbonne Université, LPSM <br>
 
 {% if author.googlescholar %}
