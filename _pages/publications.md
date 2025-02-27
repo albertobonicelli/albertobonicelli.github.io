@@ -34,7 +34,9 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 ## Other writings
 * **\"Holder-Besov spaces and space-time white noise** <br>
    with Fabrizio Zanella. Oberwolfach Reports. Arbeitsgemeinschaft: QFT and Stochastic PDEs (2023) [DOI](https://publications.mfo.de/handle/mfo/4106)
-* **Algebraic methods for the perturbative analysis of stochastic equations**, PhD Thesis [DOI](https://iris.unipv.it/bitstream/11571/1515063/2/thesis.pdf)
+  
+* **Algebraic methods for the perturbative analysis of stochastic equations** <br>
+PhD Thesis [DOI](https://iris.unipv.it/bitstream/11571/1515063/2/thesis.pdf)
 
 ## Collaborators
 * **[Claudio Dappiaggi](https://claudiodappiaggi.com/)**, University of Pavia <br>
