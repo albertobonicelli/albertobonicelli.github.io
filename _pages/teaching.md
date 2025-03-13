@@ -10,6 +10,7 @@ author_profile: true
 | When | Where | Title |  
 |:--------:|:-------|:--------|
 |-----------------------------|
+| 2025  | Sorbonne Université | Tutor for the cours "Mathematiques pour les études scientifiques II"  |
 | 2022/2023  | University of Pavia | Seminars for the class of Mathematical Methods of Physics II, B.Sc. in Physics (with Prof. Barbara Pasquini)  |
 | 2022/2023  | University of Pavia | Seminars for the class of Mathematical Methods of Physics II, B.Sc. in Physics (with Prof. Claudio Dappiaggi)  |
 | 2021/2022  | University of Pavia | Seminars for the class of Mathematical Methods of Physics I, B.Sc. in Physics (with Prof.  Barbara Pasquini)  |
