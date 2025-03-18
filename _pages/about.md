@@ -16,7 +16,7 @@ I completed my undergraduate studies at the University of Pavia, obtaining a BSc
 
 **Get in touch!**
 
-**Mail**: bonicelli@lpsm.paris.
+**Mail**: bonicelli_at_lpsm.paris.
 {: .notice}
 
 
