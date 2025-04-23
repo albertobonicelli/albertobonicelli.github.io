@@ -25,7 +25,7 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 
 * **An algebraic correspondence between stochastic differential equations and the Martin-Siggia-Rose formalism** <br>
   A.B., Claudio Dappiaggi, Nicolò Drago  <br>
-  [arXiv:2302.10579 [math-ph]](https://doi.org/10.48550/arXiv.2302.10579)
+  Annales Henri Poincaré  [DOI](https://doi.org/10.1007/s00023-025-01571-1)
 
 * **An Algebraic and Microlocal Approach to the Stochastic Nonlinear Schrödinger Equation** <br>
   A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
