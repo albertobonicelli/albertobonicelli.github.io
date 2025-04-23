@@ -44,7 +44,8 @@ PhD Thesis [DOI](https://iris.unipv.it/bitstream/11571/1515063/2/thesis.pdf)
 * **[Paolo Rinaldi](https://www.paolorinaldi.net/)**, University of Pavia <br>
 * **[Lorenzo Zambotti](https://www.lpsm.paris/users/zambotti/index)**, Sorbonne Université, LPSM <br>
 * **Beatrice Costeri**, University of Pavia <br>
-
+* **[Francesco Caravenna](https://www.unimib.it/francesco-caravenna)**, University of Milano Bicocca <br>
+* **Sonia Mazzucchi**, University of Trento <br>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
