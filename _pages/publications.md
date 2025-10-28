@@ -14,7 +14,8 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 * Microlocal analysis
 * path integral formulation of SDEs
 
-## Publications and preprints
+## Publications
+  
 * **On the stochastic Sine-Gordon model: an interacting field theory approach** <br>
   A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
    	Communications in Mathematical Physics  405, 288 (2024) [DOI](https://doi.org/10.1007/s00220-024-05165-6)
@@ -30,6 +31,11 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 * **An Algebraic and Microlocal Approach to the Stochastic Nonlinear Schrödinger Equation** <br>
   A.B., Claudio Dappiaggi, Paolo Rinaldi  <br>
   Annales Henri Poincaré 	24, 2443–2482 (2023) [DOI](https://doi.org/10.1007/s00023-023-01291-4)
+
+  
+## Preprints
+* **Exotic B-series representation of the Feller semigroup for Itô diffusions and the MSR path integral** <br>
+  A.B., arXiv preprint [DOI](https://arxiv.org/abs/2510.23102)
 
 ## Other writings
 * **\"Holder-Besov spaces and space-time white noise** <br>
