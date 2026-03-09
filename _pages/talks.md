@@ -12,8 +12,7 @@ author_profile: true
 |-----------------------------|
 | Feb. 2026 | | PRISMA seminar | La rivoluzione dell’analisi stocastica pathwise  |
 | Gen. 2026 | University of Pavia | Renormalization from Quantum Field Theory to Statistical Mechanics and Complex Systems | The semigroup of an Itô diffusion as an exotic B-series  |
-| Gen. 2026  | University of Trento |  | Representation of the semigroup for Itô diffusions via (multi-indices) exotic
-B-series and Feynman diagrams  |
+| Gen. 2026  | University of Trento |  | Representation of the semigroup for Itô diffusions via (multi-indices) exotic B-series and Feynman diagrams  |
 | Dec. 2025   | Université De Lorraine |  Operads, Symmetries for QFT and Singular SPDEs | Representation of the semigroup for Itô diffusions via (multi-indices) exotic B-series and Feynman diagrams  |
 | Oct 2025  | LPSM, Sorbonne Université | GdT "les probas du vendredi"  | Path integral expectation for 1-D Itô diffusions  |
 | May 2024  | Université De bretagne Occidentale |  Rencontre ANR 2024 | An interactive field approach to the stochastic sine-Gordon model   |
