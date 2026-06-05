@@ -37,6 +37,7 @@ Short visits
 
 Organization of conferences
 ======
+* 3-5 June 2026, [New Perspectives on the Analysis of Singular Stochastic PDEs](https://analysis-spdes-sorbonne.github.io/), Sorbonne Unviersity, Paris. 
 * 11-12 January 2024, [Common trends and challenges in QFT and stochastic PDEs](https://sites.google.com/view/spdesqft/home), Pavia. Principal investigator. 
 
 Thesis supervision
