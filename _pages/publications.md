@@ -34,6 +34,9 @@ My area of research encompasses mathematical quantum field theory, microlocal an
 
   
 ## Preprints
+* **Remainders of generalised Taylor expansions and a priori bounds for rough differential equations** <br>
+  L. Agabiti, A.B., L. Zambotti, arXiv preprint [DOI](https://doi.org/10.48550/arXiv.2607.18635)
+
 * **Exotic B-series representation of the Feller semigroup for Itô diffusions and the MSR path integral** <br>
   A.B., arXiv preprint [DOI](https://arxiv.org/abs/2510.23102)
 
